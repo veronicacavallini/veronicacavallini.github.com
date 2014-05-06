@@ -10,8 +10,8 @@ $(function(){
 $(function() {
 	$.vegas('slideshow', {
 	  backgrounds:[
-		{ src:'http://www.toptenz.net/wp-content/uploads/2013/10/raw-food-diet.jpg', fade:10000, delay: 400000 },
-		{ src:'http://www.zipheal.com/wp-content/uploads/2013/03/dukan_diet_foods1.jpg', fade:10000, delay: 400000 },
+		{ src:'http://www.toptenz.net/wp-content/uploads/2013/10/raw-food-diet.jpg', fade:3000, delay: 400000 },
+		{ src:'http://www.zipheal.com/wp-content/uploads/2013/03/dukan_diet_foods1.jpg', fade:3000, delay: 400000 },
 	  ]
 	})('overlay', {
 	  src:'assets/third/vegas/overlays/01.png'
